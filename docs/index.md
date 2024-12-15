@@ -11,7 +11,7 @@ hero:
       link: /guide/
     - theme: alt
       text: 快速开始
-      link: https://github.com/web-infra-dev/rspress
+      link: https://github.com/xp-bear
   image:
     src: /rspress-icon.png
     alt: Logo

@@ -1,21 +1,7 @@
 [
   {
-    "text": "Guide",
-    "link": "/guide/",
-    "activeMatch": "/guide/"
-  },
-  {
-    "text": "Test",
-    "link": "/test/",
-    "activeMatch": "/test/"
-  },
-  {
-    "text": "Hello World",
-    "link": "/hello/",
-    "activeMatch": "/hello/"
-  },
-  {
-    "text": "API",
-    "link": "https://rspress.dev/api/index.html"
+    "text": "Python教程",
+    "link": "/python/",
+    "activeMatch": "/python/"
   }
 ]

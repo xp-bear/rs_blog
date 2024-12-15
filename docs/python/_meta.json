@@ -1,10 +1,9 @@
 [
   "index",
-  "one",
   {
     "type": "dir",
-    "name": "advanced",
-    "label": "Advanced",
+    "name": "python_spider",
+    "label": "爬虫基础教程",
     "collapsible": true,
     "collapsed": false
   }

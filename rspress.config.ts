@@ -14,7 +14,7 @@ export default defineConfig({
       {
         icon: 'github',
         mode: 'link',
-        content: 'https://github.com/web-infra-dev/rspress',
+        content: 'https://github.com/xp-bear',
       },
     ],
     outlineTitle: '标题目录',
@@ -30,5 +30,6 @@ export default defineConfig({
     searchNoResultsText: '未搜索到相关结果',
     searchSuggestedQueryText: '可更换不同的关键字后重试',
     hideNavbar: 'auto',
+    enableScrollToTop: true,
   },
 });
