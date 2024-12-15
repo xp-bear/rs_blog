@@ -1,0 +1,11 @@
+[
+  "index",
+  "one",
+  {
+    "type": "dir",
+    "name": "advanced",
+    "label": "Advanced",
+    "collapsible": true,
+    "collapsed": false
+  }
+]
